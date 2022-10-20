@@ -7,4 +7,17 @@
 3. Git checkout "название ветки" - переходит на нужную ветку.
 4. Git checkout -b "название ветки" - создает новую ветку и переходит на нее.
 
-### Заголовок 2
+### ход д/з
+
+* .+ reserved, work, change
+* work - команды
+* master + work
+* .+ test
+* test - readme
+* master - инфо по д/з
+* change + work
+* change - команды
+* master + change
+* master + test
+* reserved - доп инфо
+* master + reserved
